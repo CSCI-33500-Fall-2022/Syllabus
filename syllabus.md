@@ -218,6 +218,8 @@ This syllabus is subject to change. Students may be informed of changes via [Git
 
 ## Outline and Schedule of Course Topics
 
+This schedule is tentative. All due dates will be posted on the Bb calendar.
+
 Date | Topics | Reading (Ch.) | Deadlines
 -- | -- | -- | --
 F, 1/28 | L1. Introduction - C++ basics | 1 |
