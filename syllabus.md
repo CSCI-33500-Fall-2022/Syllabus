@@ -10,7 +10,7 @@ Field | Value
 **Office:** | 1090H Hunter North Building
 **Email:** | [raffi.khatchadourian@hunter.cuny.edu](mailto:raffi.khatchadourian@hunter.cuny.edu)
 **Phone:** | (212) 650-3988
-**Office hours:** | TF 4:00-5:00 pm
+**Office hours:** | See [my website](https://khatchad.commons.gc.cuny.edu/#info).
 **Semester:** | Spring 2022
 **Section:** | CSCI 33500-01
 
