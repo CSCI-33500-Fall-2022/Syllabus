@@ -115,8 +115,7 @@ Event | Date
 College Closed–No classes scheduled | Feb 11
 Midterm Exam | Mar 11
 Recess | Apr 15--Apr 22
-Withdrawal Deadline | May 16
-Reading Day | May 17
+Withdrawal Deadline | May 17
 Final Exam | May 24 11:30--1:30 pm
 
 ## Resources
@@ -222,37 +221,38 @@ This schedule is tentative. All due dates will be posted on the Bb calendar.
 
 Date | Topics | Reading (Ch.) | Deadlines
 -- | -- | -- | --
-F, 1/28 | L1. Introduction - C++ basics | 1 |
-T, 2/1 | L2. -//- | \-//- |
-F, 2/4 | L3. Algorithm Analysis | 2 |
-T, 2/8 | L4. Review of Vector/List and Iterators | 3 |
+F, 1/28 | Introduction - C++ basics | 1 |
+T, 2/1 | -//- | \-//- |
+F, 2/4 | Algorithm Analysis | 2 |
+T, 2/8 | -//- | \-//- |
 F, 2/11 | **No class** | |
-T, 2/15 | L5. Review (cont.) | |
-F, 2/18 | L6. Trees (AVL) | 4.1-4.3 | \#1 due
-T, 2/22 | L7. Trees (cont.) | |
-F, 2/25 | L8. Trees (Splay Trees, B-Trees) | 4.5, 4.6-4.7 |
-T, 3/1 | L9. Sets/Maps | 4.8 |
-F, 3/4 | L10. Hashing | 5 |
-T, 3/8 | L11. -//- | |
-F, 3/11 | **Midterm Exam** | |  \#2 due
-T, 3/15 | L12. Heaps | 6 |
-F, 3/18 | L13. Heaps| \-//- |
-T, 3/22 | L14. Heaps | \-//- |
-F, 3/25 | L15. Sorting | 7.1-7.7 |
-T, 3/29 | L16. Sorting | 7.8-7.9 |
-F, 4/1 | L17. Union/Find | 8 | \#3 due
-T, 4/5 | L18. Graph Algorithms | 9.1-9.3 |
-F, 4/8 | L19. -//- | 9.4-9.6 |
-T, 4/12 | L18. -//- (NP) | 9.7 |
+T, 2/15 | Review of Vector/List and Iterators | 3 |
+F, 2/18 | Review (cont.) | 4.1-4.3 | \#1 due
+F, 2/22 | Trees (AVL) | 4.1-4.3 |
+T, 2/25 | Trees (cont.) | |
+F, 3/1 | Trees (Splay Trees, B-Trees) | 4.5, 4.6-4.7 |
+T, 3/4 | Sets/Maps | 4.8 |
+F, 3/8 | Hashing | 5 |
+T, 3/11 | -//- | |
+F, 3/15 | **Midterm Exam** | |  \#2 due
+T, 3/18 | Heaps | 6 |
+F, 3/22 | Heaps| \-//- |
+T, 3/25 | Heaps | \-//- |
+F, 3/29 | Sorting | 7.1-7.7 |
+T, 4/1 | Sorting | 7.8-7.9 |
+F, 4/5 | Union/Find | 8 | \#3 due
+T, 4/8 | Graph Algorithms | 9.1-9.3 |
+F, 4/12 | -//- | 9.4-9.6 |
 F, 4/15 | **No class - Spring Break** | |
 T, 4/19 | **No class - Spring Break** | |
 F, 4/22 | **No class - Spring Break** | |
-T, 4/26 | L20. Greedy Algorithms | 10.1.1, 10.1.3 |
-F, 4/29 | L19. Divide and Conquer | 10.2 | \#4 due
-T, 5/3 | L21. Divide and Conquer (cont.) | |
-F, 5/6 | L22. Dynamic Programming | 10.3 | |
-T, 5/10 | L23. -//- | | |
-F, 5/13 | L24. Randomized Algorithms/Final Review (time permitting) | 10.4 | \#5 due
+T, 4/26 | -//- (NP) | 9.7 |
+T, 4/29 | Greedy Algorithms | 10.1.1, 10.1.3 |
+F, 5/3 | Divide and Conquer | 10.2 | \#4 due
+T, 5/6 | Divide and Conquer (cont.) | |
+F, 5/10 | Dynamic Programming | 10.3 | |
+T, 5/13 | -//- | | |
+T, 5/17 | Randomized Algorithms (time permitting) | 10.4 | \#5 due
 F, 5/24 | **Final Exam 11:30--1:30 pm** | | |
 
 ## Instructor Biography
