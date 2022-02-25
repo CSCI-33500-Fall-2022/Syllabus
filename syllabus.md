@@ -253,7 +253,6 @@ Date | Topics | Reading (Ch.) | Deadlines
 5/10 | Divide and Conquer (cont.) | |
 5/13 | Dynamic Programming | 10.3 | |
 5/17 | -//- | | \#5 due |
-<!-- T, 5/17 | Randomized Algorithms (time permitting) | 10.4 | \#5 due -->
 F, 5/24 | **Final Exam 11:30--1:30 pm** | | |
 
 ## Instructor Biography
