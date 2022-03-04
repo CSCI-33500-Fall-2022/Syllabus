@@ -228,7 +228,7 @@ Date | Topics | Reading (Ch.) | Deadlines
 2/11 | **No class** | |
 2/15 | -//- | \-//- |
 2/18 | Review of Vector/List and Iterators | 3 |
-2/22 | Review (cont.) | 4.1-4.3 | \#1 due
+2/22 | Review (cont.) | | \#1 due
 2/25 | Trees (AVL) | 4.1-4.3 |
 3/1 | Trees (cont.) | |
 3/4 | Trees (Splay Trees, B-Trees) | 4.5, 4.6-4.7 |
@@ -237,7 +237,7 @@ Date | Topics | Reading (Ch.) | Deadlines
 3/15 | -//- | | \#2 due
 3/18 | **Midterm Exam** | |
 3/22 | Heaps | 6 |
-3/25 | Heaps| \-//- |
+3/25 | Heaps | \-//- |
 3/29 | Heaps | \-//- |
 4/1 | Sorting | 7.1-7.7 |
 4/5 | Sorting | 7.8-7.9 |
