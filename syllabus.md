@@ -113,7 +113,7 @@ Final Exam (non-accumulative) | 25%
 Event | Date
 ----- | ----
 College Closed–No classes scheduled | Feb 11
-Midterm Exam | Mar 11
+Midterm Exam | Mar 18
 Recess | Apr 15--Apr 22
 Withdrawal Deadline | May 17
 Final Exam | May 24 11:30--1:30 pm
