@@ -242,7 +242,7 @@ Date | Topics | Reading (Ch.) | Deadlines
 4/1 | Sorting | 7.1-7.7 |
 4/5 | Sorting | 7.8-7.9 |
 4/8 | Union/Find | 8 | \#3 due
-4/22 | Graph Algorithms | 9.1-9.3 |
+4/12 | Graph Algorithms | 9.1-9.3 |
 4/15 | **No class - Spring Break** | |
 4/19 | **No class - Spring Break** | |
 4/22 | **No class - Spring Break** | |
