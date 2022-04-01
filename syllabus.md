@@ -235,7 +235,7 @@ Date | Topics | Reading (Ch.) | Deadlines
 3/8 | Sets/Maps | 4.8 |
 3/11 | Hashing | 5 |
 3/15 | -//- | |
-3/18 | **Midterm Exam** | \#2 due |
+3/18 | **Midterm Exam** | | \#2 due 
 3/22 | Heaps | 6 |
 3/25 | Midterm exam solution review | \-//- |
 3/29 | Heaps | \-//- |
