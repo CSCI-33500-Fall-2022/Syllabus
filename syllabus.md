@@ -234,25 +234,25 @@ Date | Topics | Reading (Ch.) | Deadlines
 3/4 | Trees (Splay Trees, B-Trees) | 4.5, 4.6-4.7 |
 3/8 | Sets/Maps | 4.8 |
 3/11 | Hashing | 5 |
-3/15 | -//- | | \#2 due
-3/18 | **Midterm Exam** | |
+3/15 | -//- | |
+3/18 | **Midterm Exam** | \#2 due |
 3/22 | Heaps | 6 |
-3/25 | Heaps | \-//- |
+3/25 | Midterm exam solution review | \-//- |
 3/29 | Heaps | \-//- |
-4/1 | Sorting | 7.1-7.7 |
-4/5 | Sorting | 7.8-7.9 |
-4/8 | Union/Find | 8 | \#3 due
-4/12 | Graph Algorithms | 9.1-9.3 |
+4/1 | Heaps | \-//- |
+4/5 | Sorting | 7.1-7.7 |
+4/8 | Sorting | 7.8-7.9 |
+4/12 | Union/Find | 8 | \#3 due
 4/15 | **No class - Spring Break** | |
 4/19 | **No class - Spring Break** | |
 4/22 | **No class - Spring Break** | |
-4/26 | -//- | 9.4-9.6 |
-4/29 | -//- (NP) | 9.7 |
-5/3 | Greedy Algorithms | 10.1.1, 10.1.3 |
-5/6 | Divide and Conquer | 10.2 | \#4 due
-5/10 | Divide and Conquer (cont.) | |
-5/13 | Dynamic Programming | 10.3 | |
-5/17 | -//- | | \#5 due |
+4/26 | Graph Algorithms | 9.1-9.3 |
+4/29 | -//- | 9.4-9.6 |
+5/3 | -//- (NP) | 9.7 |
+5/6 | Greedy Algorithms | 10.1.1, 10.1.3 |
+5/10 | Divide and Conquer | 10.2 | \#4 due
+5/13 | Divide and Conquer (cont.) | |
+5/17 | Dynamic Programming | 10.3 | \#5 due |
 5/24 | **Final Exam 11:30--1:30 pm** | | |
 
 ## Instructor Biography
