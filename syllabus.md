@@ -239,21 +239,21 @@ Date | Topics | Reading (Ch.) | Deadlines
 3/22 | Heaps | 6 |
 3/25 | Midterm exam solution review | \-//- |
 3/29 | Heaps | \-//- |
-4/1 | Heaps | \-//- |
-4/5 | Sorting | 7.1-7.7 |
-4/8 | Sorting | 7.8-7.9 |
-4/12 | Union/Find | 8 | \#3 due
-4/15 | **No class - Spring Break** | |
+4/1 | Assignment 3 intro | \-//- |
+4/5 | Heaps | \-//- |
+4/8 | Sorting | 7.1-7.7 |
+4/12 | Sorting | 7.8-7.9 |
+4/15 | **No class - Spring Break** | | \#3 due
 4/19 | **No class - Spring Break** | |
 4/22 | **No class - Spring Break** | |
-4/26 | Graph Algorithms | 9.1-9.3 |
-4/29 | -//- | 9.4-9.6 |
-5/3 | -//- (NP) | 9.7 |
-5/6 | Greedy Algorithms | 10.1.1, 10.1.3 |
-5/10 | Divide and Conquer | 10.2 | \#4 due
-5/13 | Divide and Conquer (cont.) | |
-5/17 | Dynamic Programming | 10.3 | \#5 due |
-5/24 | **Final Exam 11:30--1:30 pm** | | |
+4/26 | Union/Find | 8 | 
+4/29 | Graph Algorithms | 9.1-9.3 |
+5/3 | -//- | 9.4-9.6 |
+5/6 | -//- (NP) | 9.7 |
+5/10 | Greedy Algorithms | 10.1.1, 10.1.3 |
+5/13 | Divide and Conquer | 10.2 | \#4 due
+5/17 | Divide and Conquer (cont.)/Dynamic Programming | 10.3 | 
+5/24 | **Final Exam 11:30--1:30 pm** | | \#5 due |
 
 ## Instructor Biography
 
