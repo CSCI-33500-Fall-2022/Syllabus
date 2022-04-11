@@ -249,9 +249,9 @@ Date | Topics | Reading (Ch.) | Deadlines
 4/26 | Union/Find | 8 | 
 4/29 | Graph Algorithms | 9.1-9.3 |
 5/3 | -//- | 9.4-9.6 |
-5/6 | -//- (NP) | 9.7 |
+5/6 | -//- (NP) | 9.7 | \#4 due
 5/10 | Greedy Algorithms | 10.1.1, 10.1.3 |
-5/13 | Divide and Conquer | 10.2 | \#4 due
+5/13 | Divide and Conquer | 10.2 | 
 5/17 | Divide and Conquer (cont.)/Dynamic Programming | 10.3 | 
 5/24 | **Final Exam 11:30--1:30 pm** | | \#5 due |
 
